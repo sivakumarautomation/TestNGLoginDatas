@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-21T18:31:26Z" name="Default suite" finished-at="2023-07-21T18:31:35Z" duration-ms="8928">
+    <groups>
+    </groups>
+    <test started-at="2023-07-21T18:31:26Z" name="Default test" finished-at="2023-07-21T18:31:35Z" duration-ms="8928">
+      <class name="testnglogin.Login">
+        <test-method signature="url()[pri:1, instance:testnglogin.Login@7fd50002]" started-at="2023-07-21T18:31:26Z" name="url" finished-at="2023-07-21T18:31:34Z" duration-ms="7401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="username()[pri:2, instance:testnglogin.Login@7fd50002]" started-at="2023-07-21T18:31:34Z" name="username" finished-at="2023-07-21T18:31:34Z" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method signature="close()[pri:3, instance:testnglogin.Login@7fd50002]" started-at="2023-07-21T18:31:34Z" name="close" finished-at="2023-07-21T18:31:35Z" duration-ms="1215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testnglogin.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
